@@ -6,7 +6,7 @@
 // Timer Interrupt + Button Debounce + I2C OLED
 // Embedded IoT System Fall-2026
 // Name: M Ali
-// Reg#: 24-NTU-CS-FL-1059
+// Reg#: 24-NTU-CS-FL-1057
 
 #define LED 4
 #define BUTTON_PIN 5
